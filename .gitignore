@@ -1,0 +1,6 @@
+node_modules/
+build/
+web-map-app/node_modules/
+web-map-app/build/
+.DS_Store
+package-lock.json
